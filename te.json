@@ -1,0 +1,127 @@
+[
+	{
+		"recordType": null,
+		"droti": false,
+		"duid": false,
+		"letter": "Ostatní",
+		"logo": "ČS (čb)",
+		"dateFrom": "2020-01-11T00:00:00Z",
+		"dateCancel": null,
+		"dateCreation": "2012-10-15T00:00:00Z",
+		"topTemplate": false,
+		"nameOnTemplate": null,
+		"systemSet": "PLATBA 24",
+		"msType": null,
+		"msVariant": null,
+		"smsCapacity": 0,
+		"letterCapacity": 0,
+		"pushCapacity": 0,
+		"trnScr": null,
+		"certificate": null,
+		"emailSystem": null,
+		"priority": 0.0,
+		"documentName": null,
+		"variant": null,
+		"variantCondition": null,
+		"fulltextHighlights": null,
+		"id": "63bbeb2b-d144-250e-0dc0-fad803bf23c3",
+		"documentType": "template",
+		"tribe": "X000-nezařazeno",
+		"idTemp": "3-4346",
+		"systAdmin": "CSSAB",
+		"templateName": "Dodatek ke Smlouvě o poskytování služby PLATBA 24",
+		"lastChange": "2020-07-01T02:00:09.5182852Z",
+		"active": true,
+		"system": "WORD-IA",
+		"owner": "Kvitová Kateřina",
+		"idOwner": "CEN80669",
+		"version": "03/2018",
+		"tags": [],
+		"masterTemplateId": null,
+		"masterTemplateIds": null,
+		"templateAuthor": null,
+		"squad": null,
+		"channel": "undefined",
+		"distributionChannel": 0,
+		"status": "Created",
+		"sourceFileStatus": "Created",
+		"statuses": [
+			{
+				"id": "99a1b905-82ff-45a5-a8af-8a68303d5582",
+				"environment": "Production",
+				"status": "Created",
+				"validFrom": "2020-02-06T14:17:00.2852897Z",
+				"validTo": null,
+				"stakeholder": "Rys Jan",
+				"documentPart": "metadata"
+			}
+		],
+		"sourceFileStatuses": [
+			{
+				"id": "4c532bb9-83ff-4056-a6a9-8d80e334fbbd",
+				"environment": "Production",
+				"status": "Created",
+				"validFrom": "2020-02-06T14:17:00.2852925Z",
+				"validTo": "2020-06-17T13:32:52.8368979Z",
+				"stakeholder": null,
+				"documentPart": "sourcefile"
+			},
+			{
+				"id": "5e7c3fcd-dd5c-40b1-9980-4b8f9e0439cd",
+				"environment": "Production",
+				"status": "To be reworked",
+				"validFrom": "2020-06-17T13:32:52.8368979Z",
+				"validTo": "2020-06-17T13:35:59.3192296Z",
+				"stakeholder": null,
+				"documentPart": "sourcefile"
+			},
+			{
+				"id": "17be1128-b8b1-4453-9d1b-2462778e76d4",
+				"environment": "Production",
+				"status": "Created",
+				"validFrom": "2020-06-17T13:35:59.3192296Z",
+				"validTo": null,
+				"stakeholder": null,
+				"documentPart": "sourcefile"
+			}
+		],
+		"isLegal": false,
+		"description": "Změna loga. Původní: Logo ČS (ČB)",
+		"changeDescription": "Martin Kučera - Oprava záznamu v DŠ. Vlastník: Kvitová Kateřina byl zaveden, Podpis: Kvitová Kateřina byl zrušen.",
+		"note": null,
+		"attachments": [],
+		"lastChangeAuthor": { "id": "KASAB001", "name": "Kasab Service" },
+		"externalDependencies": null,
+		"segments": null,
+		"aip": "Neurčeno",
+		"languages": ["CZ"],
+		"usages": [
+			{
+				"id": "84bd27cb-3209-482a-997c-2096dd704a8b",
+				"from": "2020-01-01T00:00:00",
+				"to": "2020-02-01T00:00:00",
+				"value": 16,
+				"usageType": "download"
+			},
+			{
+				"id": "5ddb070c-11e2-44a9-b818-b093b067c773",
+				"from": "2020-02-01T00:00:00",
+				"to": "2020-03-01T00:00:00",
+				"value": 3,
+				"usageType": "download"
+			},
+			{
+				"id": "5be1f1e7-17db-4925-a560-667a0df20c62",
+				"from": "2020-06-01T00:00:00",
+				"to": "2020-07-01T00:00:00",
+				"value": 2,
+				"usageType": "download"
+			}
+		],
+		"usageAggregated": 21,
+		"secretDescription": null,
+		"bioSignature": false,
+		"_etag": "\"6300b3e2-0000-0d00-0000-5efbee290000\"",
+		"sourceFiles": ["CSSAB/3-4346/cs3-4346.dotm"]
+	}
+]
